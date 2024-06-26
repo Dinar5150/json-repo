@@ -1,0 +1,148 @@
+[
+    {
+        "username": "Alice",
+        "role": "admin",
+        "email": "alice@example.com",
+        "id": 1,
+        "password": "samplepassword1"
+    },
+    {
+        "username": "Bob",
+        "role": "user",
+        "email": "bob@example.com",
+        "id": 2,
+        "password": "samplepassword2"
+    },
+    {
+        "username": "Charlie",
+        "role": "host",
+        "email": "charlie@example.com",
+        "id": 3,
+        "password": "samplepassword3",
+        "competition_ids": [1, 2]
+    },
+    {
+        "username": "Diana",
+        "role": "admin",
+        "email": "diana@example.com",
+        "id": 4,
+        "password": "samplepassword4"
+    },
+    {
+        "username": "Edward",
+        "role": "user",
+        "email": "edward@example.com",
+        "id": 5,
+        "password": "samplepassword5"
+    },
+    {
+        "username": "Fiona",
+        "role": "host",
+        "email": "fiona@example.com",
+        "id": 6,
+        "password": "samplepassword6",
+        "competition_ids": [3, 4, 5]
+    },
+    {
+        "username": "George",
+        "role": "admin",
+        "email": "george@example.com",
+        "id": 7,
+        "password": "samplepassword7"
+    },
+    {
+        "username": "Hannah",
+        "role": "user",
+        "email": "hannah@example.com",
+        "id": 8,
+        "password": "samplepassword8"
+    },
+    {
+        "username": "Ian",
+        "role": "host",
+        "email": "ian@example.com",
+        "id": 9,
+        "password": "samplepassword9",
+        "competition_ids": [6]
+    },
+    {
+        "username": "Jessica",
+        "role": "admin",
+        "email": "jessica@example.com",
+        "id": 10,
+        "password": "samplepassword10"
+    },
+    {
+        "username": "Kevin",
+        "role": "user",
+        "email": "kevin@example.com",
+        "id": 11,
+        "password": "samplepassword11"
+    },
+    {
+        "username": "Laura",
+        "role": "host",
+        "email": "laura@example.com",
+        "id": 12,
+        "password": "samplepassword12",
+        "competition_ids": [7, 8]
+    },
+    {
+        "username": "Michael",
+        "role": "admin",
+        "email": "michael@example.com",
+        "id": 13,
+        "password": "samplepassword13"
+    },
+    {
+        "username": "Nina",
+        "role": "user",
+        "email": "nina@example.com",
+        "id": 14,
+        "password": "samplepassword14"
+    },
+    {
+        "username": "Oscar",
+        "role": "host",
+        "email": "oscar@example.com",
+        "id": 15,
+        "password": "samplepassword15",
+        "competition_ids": [9, 10]
+    },
+    {
+        "username": "Paul",
+        "role": "admin",
+        "email": "paul@example.com",
+        "id": 16,
+        "password": "samplepassword16"
+    },
+    {
+        "username": "Quinn",
+        "role": "user",
+        "email": "quinn@example.com",
+        "id": 17,
+        "password": "samplepassword17"
+    },
+    {
+        "username": "Rachel",
+        "role": "host",
+        "email": "rachel@example.com",
+        "id": 18,
+        "password": "samplepassword18",
+        "competition_ids": [11]
+    },
+    {
+        "username": "Steven",
+        "role": "admin",
+        "email": "steven@example.com",
+        "id": 19,
+        "password": "samplepassword19"
+    },
+    {
+        "username": "Tina",
+        "role": "user",
+        "email": "tina@example.com",
+        "id": 20,
+        "password": "samplepassword20"
+    }
+]
