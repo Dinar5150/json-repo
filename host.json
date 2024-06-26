@@ -1,0 +1,8 @@
+{
+    "username": "Charlie",
+    "role": "host",
+    "email": "charlie@example.com",
+    "id": 3,
+    "password": "samplepassword3",
+    "competition_ids": [1, 2]
+},
