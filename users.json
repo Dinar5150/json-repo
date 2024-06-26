@@ -8,7 +8,7 @@
     },
     {
         "username": "Bob",
-        "role": "user",
+        "role": "participant",
         "email": "bob@example.com",
         "id": 2,
         "password": "samplepassword2"
@@ -30,7 +30,7 @@
     },
     {
         "username": "Edward",
-        "role": "user",
+        "role": "participant",
         "email": "edward@example.com",
         "id": 5,
         "password": "samplepassword5"
@@ -52,7 +52,7 @@
     },
     {
         "username": "Hannah",
-        "role": "user",
+        "role": "participant",
         "email": "hannah@example.com",
         "id": 8,
         "password": "samplepassword8"
@@ -74,7 +74,7 @@
     },
     {
         "username": "Kevin",
-        "role": "user",
+        "role": "participant",
         "email": "kevin@example.com",
         "id": 11,
         "password": "samplepassword11"
@@ -96,7 +96,7 @@
     },
     {
         "username": "Nina",
-        "role": "user",
+        "role": "participant",
         "email": "nina@example.com",
         "id": 14,
         "password": "samplepassword14"
@@ -118,7 +118,7 @@
     },
     {
         "username": "Quinn",
-        "role": "user",
+        "role": "participant",
         "email": "quinn@example.com",
         "id": 17,
         "password": "samplepassword17"
@@ -140,7 +140,7 @@
     },
     {
         "username": "Tina",
-        "role": "user",
+        "role": "participant",
         "email": "tina@example.com",
         "id": 20,
         "password": "samplepassword20"
